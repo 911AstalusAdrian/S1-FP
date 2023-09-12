@@ -1,0 +1,55 @@
+_______
+_______
+_______
+_______  should block the opponents win at col 3
+____o__
+xxx_o__
+3
+
+_______
+_______
+_______
+___o___  should block the opponents win at col 3
+___o___
+xx_o___
+3
+
+_______
+_______
+_______
+_______  should block the opponents win at col 4
+_______
+x_oo_o_
+4
+
+_______
+_______
+_______
+___xo__  should win at col 4
+__xxo__
+_xooo__
+4
+
+xxo_xxo
+oxxxoxo
+xoooxxx
+oxxooox  only 1 move left at col 3
+oxxxoxo
+oxoooxx
+3
+
+_______
+x______
+o______
+x___o__  should make the optimal move at col 6
+x_o_o_x
+x_oox_x
+6
+
+_______
+_______
+_______
+_______  should stop the opponent from making a 3 in a row at col 4
+___ox__
+__oxxox
+4

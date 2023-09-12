@@ -1,0 +1,13 @@
+
+Test results:
+
+    Average number of moves (shots) until game over:
+
+                1000 games      5000 games
+    beginner      95.47             NaN
+    easy          46.55            46.68
+    medium        40.20            39.93
+    hard          42.81            40.53
+
+As can be seen in excels.Statistics, while the 'easy' and 'medium' 'algorithms' depend on the luck, being based on randomised
+shooting, the 'hard' algorithm is highly dependent on the layout of the ships, favoring the more central layouts

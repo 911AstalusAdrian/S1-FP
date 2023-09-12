@@ -1,0 +1,23 @@
+_______
+_______
+_______
+____o__  -- check if placing works
+____o__
+xxxxo__
+1 4
+
+____x__
+____o__
+____x__
+____o__  -- check if it doesn't place on filled columns
+____o__
+xxxxo__
+0 4
+
+_______
+_______
+_______
+____o__  -- check if it doesn't accept out of bound coordinates
+____o__
+xxxxo__
+0 8

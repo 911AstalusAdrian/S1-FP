@@ -1,0 +1,2 @@
+class RentalRepo:
+    pass
